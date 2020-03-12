@@ -120,7 +120,7 @@ piston-mini-client==0.7.5
 pkgconfig==1.2.2
 ply==3.11
 pp==1.6.4
-psutil==1.2.1
+psutil==5.6.6
 PsychoPy==1.79.1
 psycopg2==2.7.4
 psycopg2-binary==2.7.4
