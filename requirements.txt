@@ -80,7 +80,7 @@ hdf-compass==0.7.0b1
 HDFconvert==1.0.1
 html5lib==1.0b3
 htmlmin==0.1.12
-httplib2==0.8
+httplib2==0.18.0
 importlib==1.0.4
 ipython==1.2.1
 itsdangerous==0.24
