@@ -37,7 +37,7 @@ django-bulk-admin==0.1.1
 django-compressor==2.2
 django-crispy-forms==1.6.1
 django-datetime-widget==0.9.3
-django-debug-toolbar==1.5
+django-debug-toolbar==1.11.1
 django-filter==1.0.2
 django-graphos==0.3.41
 django-import-export==0.5.1
