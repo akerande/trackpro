@@ -138,7 +138,7 @@ pygubu==0.9.8.1
 PyInstaller==3.2.1
 pylint==1.1.0
 pymvpa2==2.0.1
-pyo==0.6.8
+pyo==1.0.3
 PyOpenGL==3.0.2
 pyOpenSSL==0.13
 pyparsing==2.2.0
